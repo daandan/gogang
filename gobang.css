@@ -1,0 +1,24 @@
+body{
+    text-align: center;
+}
+
+canvas{
+    display: block;
+    margin:30px auto;
+    border:1px solid #ccc;
+    box-shadow: 0 0 5px #ccc;
+}
+a{
+    text-decoration: none;
+    border: 2px solid #ccc;
+    width: 60px;
+    height: 40px;
+    line-height: 40px;
+    color: #ffffff;
+    padding: 5px 30px;
+    border-radius: 10px;
+    background: #319e90;
+}
+a:hover{
+    background: #4edecc;
+}
